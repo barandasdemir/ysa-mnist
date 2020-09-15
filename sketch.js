@@ -29,6 +29,8 @@ function setup() {
   loadMNIST(function(data) {
     mnist = data;
     console.log('mnist verisi yuklendi');
+    document.querySelector('.msg').style = 'display: none';
+    document.querySelector('#info').style = 'display: block';
   });
 }
 
