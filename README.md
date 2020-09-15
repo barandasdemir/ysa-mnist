@@ -2,4 +2,4 @@
 
 Yapay Sinir Ağları dersi için yazılmış simülasyon kodu.
 
-Demo için [tıklayın](https://example.org).
+Demo için [tıklayın](https://https://barandasdemir.github.io/ysa-mnist/).
